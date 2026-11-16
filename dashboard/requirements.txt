@@ -1,0 +1,10 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+vaderSentiment
+streamlit
+plotly
+google-play-scraper
